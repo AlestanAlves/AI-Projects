@@ -12,3 +12,9 @@ pip install opencv-python
 ```
 pip install mediapipe
 ```
+
+## Install cv2
+
+```
+pip install opencv-python
+```
